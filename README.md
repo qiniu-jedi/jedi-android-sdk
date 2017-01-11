@@ -1,4 +1,4 @@
-# 点播云安卓SDK 。
+# 点播云Android SDK 
 Android SDK 只包含了最终用户使用场景中的必要功能。相比服务端 SDK 而言，客户端 SDK 不会包含对云存储服务的管理和配置功能。**千万注意，portal中的access key 和 secret key不要存放在客户端！** 更多安全机制的问题，参考七牛developer文档 [安全机制](http://developer.qiniu.com/article/developer/security/index.html)。
 
 ## 安装
