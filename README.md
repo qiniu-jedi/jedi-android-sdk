@@ -40,8 +40,8 @@ compile 'com.qiniu:qiniu-android-sdk:7.0.+'
 
 
 ***
-### 使用
-* 登陆 https://portal.qiniu.com 可以查看自己的 Access Key 和 Secret Key。 将 Access Key 和 Secret Key 放入服务端，不要放在客户端，客户端的需要鉴权的时候，通过往服务端发请求，获取已经鉴权好了的信息。
+## 使用
+* 登陆 https://portal.qiniu.com 可以查看自己的 Access Key 和 Secret Key。 将 Access Key 和 Secret Key 放入服务端，不要放在客户端，客户端需要鉴权的时候，通过往服务端发请求，获取已经鉴权好的信息。
 
 * SDK主要包含文件上传，需要用相应的方法，只需要实例化相应的类即可。
 
