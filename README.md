@@ -12,8 +12,7 @@ Android SDK 只包含了最终用户使用场景中的必要功能。相比服�
 |  7.0.7        |  Android 2.2+     | android-async-http 1.4.8 |
 
 ### 直接安装
-将sdk jar文件 复制到项目中去，[下载地址](http://search.maven.org/remotecontent?filepath=com/qiniu/qiniu-android-sdk/) 还有对应的依赖库
- 还有 happy-dns [下载地址](https://repo1.maven.org/maven2/com/qiniu/happy-dns/)
+将存储sdk的jar文件复制到项目中去，[下载地址](http://search.maven.org/remotecontent?filepath=com/qiniu/qiniu-android-sdk/) ,如果需要 happy-dns，从[happy-dns](https://repo1.maven.org/maven2/com/qiniu/happy-dns/)下载。
 
 ### 通过gradle
 * 7.3.x
