@@ -48,7 +48,7 @@ compile 'com.qiniu:qiniu-android-sdk:7.0.+'
 
 
 ##其他
-* 如果在使用过程中，遇到bug或者不人性化的地方，欢迎指出，并在 [点播云安卓SDK](https://github.com/qiniu-jedi/jedi-android-sdk/issues) 中提 出issue，七牛开发者会持续跟进该sdk，并改进。
+* 如果在使用过程中，遇到bug或者不人性化的地方，欢迎指出，并在 [点播云安卓SDK](https://github.com/qiniu-jedi/jedi-android-sdk/issues) 中提出issue，七牛开发者会持续跟进该sdk，并改进。
 
 
 
